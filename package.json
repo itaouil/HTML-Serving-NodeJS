@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-serving",
+  "version": "1.0.0",
+  "description": "NodeJS application that server some stuff for ya.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaouil95/HTML-Serving-NodeJS.git"
+  },
+  "author": "Ilyass Taouil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itaouil95/HTML-Serving-NodeJS/issues"
+  },
+  "homepage": "https://github.com/itaouil95/HTML-Serving-NodeJS#readme"
+}
